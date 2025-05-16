@@ -1,0 +1,1 @@
+# Blood-group-prediction-using-fingerprints-by-CNN
